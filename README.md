@@ -11,8 +11,8 @@ In the state of Oregon, wildfires are an ever present problem with hundreds of f
 Content description of project folders:
 - 01 Project Management: contains the project brief that outlines the details of the project.
 - 02 Data: contains two subfolders:
-  - Original Data: contains the original datasets of the project.
-  - Prepared Data: contains the cleaned and wrangled datasets used for analysis.
+  - Original Data: contains the original datasets of the project (one .csv file and one .geojson file).
+  - Prepared Data: contains the final cleaned and wrangled dataset used for analysis.
 - 03 Scripts: contains Jupyter notebooks of each step of my analysis written in Python code.
 - 04 Analysis-Visualizations: contains all the visualizations I created to develop and explain insights.
 ## Data
