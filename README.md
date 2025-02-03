@@ -21,6 +21,7 @@ Original data set used for this analysis and columns they contain:
     **Protected_Acres**, **HumanOrLightning**, **CauseBy**, **GeneralCause**, SpecificCause, Cause_Comments, **Lat_DD**, **Long_DD**, LatLongDD, **FO_LandOwnType**,
     Twn, Rng, Sec, Subdiv, LandmarkLocation, **County**, RegUseZone, RegUseRestriction, Industrial_Restriction, **Ign_DateTime**, **ReportDateTime**,
     **Discover_DateTime**, **Control_DateTime**, CreationDate, ModifiedDate, DistrictCode, UnitCode, DistFireNumber.
+
   *Note: Bold columns are the ones I used for analysis and some columns name were changed for clarity and consistency.
 - county_boundaries: a GeoJSON file that includes point locations for plotting maps in Python.
 ## Tools
@@ -37,4 +38,5 @@ Code was written in Jupyter notebooks using Python and utilizing the following l
 ## Sources
  - fire_occurrence.csv data set was accessed from https://www.kaggle.com/datasets/mattop/fire-occurrence-and-cause-data-2000-2022/data?select=fire-occurence.csv via Kaggle
  - county_boundaries.geojson data was accessed from https://geohub.oregon.gov/datasets/oregon-geo::county-boundaries/explore?location=45.170334%2C-120.662000%2C5.54 via Oregon.gov
-    Both originally created by the Oregon Department of Forestry - https://data.oregon.gov/Natural-Resources/ODF-Fire-Occurrence-Data-2000-2022/fbwv-q84y/about_data
+
+   Both originally created by the Oregon Department of Forestry - https://data.oregon.gov/Natural-Resources/ODF-Fire-Occurrence-Data-2000-2022/fbwv-q84y/about_data
