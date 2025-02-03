@@ -37,6 +37,7 @@ Code was written in Jupyter notebooks using Python and utilizing the following l
 - Statsmodels.api: for testing stationarity and autocorrelation
 ## Tableau Storyboard
 Link for my final results of analysis. Does not contain every step of analysis, only those relevant to final results.
+
 https://public.tableau.com/app/profile/jordan.boer/viz/OregonWildfireAnalysis/Story1?publish=yes
 ## Sources
  - fire_occurrence.csv data set was accessed from https://www.kaggle.com/datasets/mattop/fire-occurrence-and-cause-data-2000-2022/data?select=fire-occurence.csv via Kaggle
